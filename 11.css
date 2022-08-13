@@ -1,0 +1,43 @@
+
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.g {
+    position: relative;
+    left: 20px;
+    color: white;
+    font-size: 40px;
+    text-decoration: none
+}
+.title {
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    /* realitive ota elemetga beriladi*/
+    position: fixed;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 5px 5px rgba,( 0, 0, 0, 0);
+    position: fixed;
+}
+h2{
+ padding: 110px;
+   
+}
+.box {
+    position: relative;
+    left: 88%;
+    width: 35px;
+    height: 35px;
+    background-color: rgb(255, 0, 0);
+}
+a{
+    width: auto;
+}
+.b{
+    width: 200;
+    height: 200;
+}

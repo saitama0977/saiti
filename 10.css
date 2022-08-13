@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+h1{
+  text-align: center;
+font-family: sans-serif;
+}
+
+.title{
+padding-top: 20px;
+padding-bottom: 20px;
+position: relative;
+position:fixed;
+width: 100%;
+background-color: rgb(20, 100, 205);
+box-shadow: o 5px rgba(0, 0, 0, 0);
+
+
+}
+
+.line-1{
+    width: 30%;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    left: 50px;
+    top: 45%;
+
+}
+.line-2{
+    width: 30%;
+height: 1px;
+background-color: black;
+position: absolute;
+right: 50px;
+top: 45%;
+
+}
+p{
+    padding: 80px;
+    font-size: 30px;
+}
